@@ -7,3 +7,5 @@ To start running this app on your localhost, follow below steps -
  2. Do `npm install` (it will install all the dependencies)
  3. cd to the cloned folder (default telgro)
  4. run `npm start` (for this create-react-app should be installed on device)
+
+if something didn't work feel free to reach ;P
