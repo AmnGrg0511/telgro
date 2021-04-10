@@ -1,2 +1,9 @@
-# quizapp
+# Telgro
+
+A app made for students of our country. 
  
+To start running this app on your localhost, follow below steps - 
+ 1. Clone this repo
+ 2. Do `npm install` (it will install all the dependencies)
+ 3. cd to the cloned folder (default telgro)
+ 4. run `npm start` (for this create-react-app should be installed on device)
