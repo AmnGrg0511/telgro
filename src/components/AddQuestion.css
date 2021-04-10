@@ -1,0 +1,7 @@
+.ck .cke_inner .cke_top {
+    display: none;
+}
+
+.op .cke_contents {
+  max-height: 8rem;
+}
